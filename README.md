@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mathisbdkr
+- 👀 I’m interested at epitech paris
+- 🌱 I’m currently learning c language
+- 📫 How to reach me mathisbrehmdk@gmail.com or mathisbrehm@epitech.eu

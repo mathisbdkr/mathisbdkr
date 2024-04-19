@@ -26,7 +26,7 @@
 </div>
 
 <div align="center">
-  <img src="./Assets/Border.png"/>
+  <img src="https://github.com/mathisbdkr/mathisbdkr/blob/main/readme/Assets/Border.png"/>
 </div>
 
 <h2 id="stats">
@@ -43,7 +43,7 @@
 </div>
 
 <div align="center">
-  <img src="./Assets/Border.png"/>
+  <img src="https://github.com/mathisbdkr/mathisbdkr/blob/main/readme/Assets/Border.png"/>
 </div>
 
 <h2 id="about">
@@ -55,7 +55,7 @@
 *   📅 19 years old
 
 <div align="center">
-  <img src="./Assets/Border.png"/>
+  <img src="https://github.com/mathisbdkr/mathisbdkr/blob/main/readme/Assets/Border.png"/>
 </div>
 
 <h2 id="repo">
@@ -68,7 +68,7 @@
 <!-- [![MiniLibC](https://github-readme-stats.vercel.app/api/pin/?username=Paul-Marie&repo=minilibc&hide_border=true&title_color=FF0055&text_color=03C6E0&bg_color=141321)][minilibc] -->
 
 <div align="center">
-  <img src="./Assets/Border.png"/>
+  <img src="https://github.com/mathisbdkr/mathisbdkr/blob/main/readme/Assets/Border.png"/>
 </div>
 
 <h2 id="contacts">
@@ -82,11 +82,11 @@
 | ⬇️ | Name |  |
 |--|--|--|
 | [<img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="32">][discord] | `mathisdkr`
-| [<img src="./Assets/outlook.png" alt="outlook" width="32">][outlook] | `mathis.brehm@epitech.eu`
+| [<img src="https://github.com/mathisbdkr/mathisbdkr/blob/main/readme/Assets/outlook.png" alt="outlook" width="32">][outlook] | `mathis.brehm@epitech.eu`
 | [<img src="https://skillicons.dev/icons?i=gmail" alt="gmail" width="32">][gmail] | `mathisbrehmdk@gmail.com`
 
 <div align="center">
-  <img src="./Assets/Border.png"/>
+  <img src="https://github.com/mathisbdkr/mathisbdkr/blob/main/readme/Assets/Border.png"/>
 </div>
 
 [arcade_link]: https://github.com/mathisbdkr/arcade

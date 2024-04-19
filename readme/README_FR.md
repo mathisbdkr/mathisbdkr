@@ -78,7 +78,7 @@
 > Vous préférerez sûrement me contacter directement via [Discord][discord] pour des réponses plus rapides.
 
 
-| ⬇️ | Name |  |
+| ⬇️ | Name |
 |--|--|
 | [<img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="32">][discord] | `mathisdkr`
 | [<img src="https://github.com/mathisbdkr/mathisbdkr/blob/main/readme/Assets/outlook.png" alt="outlook" width="32">][outlook] | `mathis.brehm@epitech.eu`

@@ -79,7 +79,7 @@
 
 
 | ⬇️ | Name |  |
-|--|--|--|
+|--|--|
 | [<img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="32">][discord] | `mathisdkr`
 | [<img src="https://github.com/mathisbdkr/mathisbdkr/blob/main/readme/Assets/outlook.png" alt="outlook" width="32">][outlook] | `mathis.brehm@epitech.eu`
 | [<img src="https://skillicons.dev/icons?i=gmail" alt="gmail" width="32">][gmail] | `mathisbrehmdk@gmail.com`

@@ -1,5 +1,5 @@
 </br>
-<p align="center" style="font-size: 5em;"><b> Mathis brehm </b></p>
+<p align="center" style="font-size: 75px;"><b> Mathis brehm </b></p>
 </br>
 
 <p align="center">

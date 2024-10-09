@@ -50,7 +50,7 @@
 
 *   👨‍💼 Currently student
 *   📍 Live in Paris
-*   📅 19 years old
+*   📅 20 years old
 
 <div align="center">
   <img src="https://github.com/mathisbdkr/mathisbdkr/blob/main/readme/Assets/Border.png"/>

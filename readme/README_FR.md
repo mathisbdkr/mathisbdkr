@@ -49,7 +49,7 @@
 
 *   👨‍💼 Actuellement étudiant
 *   📍 Habite a Paris
-*   📅 19 ans
+*   📅 20 ans
 
 <div align="center">
   <img src="https://github.com/mathisbdkr/mathisbdkr/blob/main/readme/Assets/Border.png"/>
